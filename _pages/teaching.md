@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses taught [(Teaching Portfolio)](https://sites.google.com/arizona.edu/weixu1?usp=sharing)
+## Courses Taught [(Teaching Portfolio)](https://sites.google.com/arizona.edu/weixu1?usp=sharing)
 
 * **University of Arizona / Professional and Technical Writing / 2024**
   * ENGL313 Introduction to Professional and Technical Writing / 1 section
@@ -24,11 +24,11 @@ author_profile: true
   * English-Mandarin Translation Core course for Senior English-major college EAL students / 1 section
     
 * **Cambridge International School / English Department, China / 2018-2020**
-  * ESL Core First-year High School English for EAL students / 6 sections
+  * ESL Core First-Year High School English for EAL students / 6 sections
   * Academic Writing Advanced High School English for EAL students / 2 sections
      
    
-## Academic & Professional credentials
+## Academic & Professional Credentials
 
 * **2023-Present Graduate Assistant Director**
   * International Foundations Writing Program / English Department / University of Arizona
