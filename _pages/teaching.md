@@ -55,7 +55,7 @@ author_profile: true
     * Co-taught a unit of the course two times: Created and taught lessons on instructional dimension of Second Language Acquisition and Teaching (i.e., multiliteracies, genre-based pedagogy, and multimodal composing in teaching writing) for the graduate course of Proseminar for first-year SLAT doctoral students; selected readings for the unit; provided assessment feedback on students’ engagement with readings; drafted short paper writing prompt; provided feedback on SLAT first-year doctoral students’ coursework papers; secured faculty guest speakers.
  
 * **2018-2020 Instructor**
-  * English Department / Cambridge International School /China
+  * English Department / Cambridge International School / China
     * Led the curriculum design and taught for the courses of “Core: English as a Second Language” & “English Academic Writing for IGCSE (International General Certificate of Secondary Education)”; assessed student learning.
  
 * **2017-2018 Adjunct Lecturer**
