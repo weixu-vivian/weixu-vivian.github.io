@@ -13,6 +13,7 @@ author_profile: true
 1. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
 2. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
 3. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
+   
 #### Editorial-reviewed
 1. Hakim, A., **Xu, W**., Fedewa, K., Lo, W., Kessler, M., Tardy, C. M. (2024). Researching genre knowledge across languages and contexts. Language Teaching, 1-5. https://doi.org/10.1017/S0261444823000484
 2. **Xu, W**. (2024). Bilingual genre redesign with AI. In TextGenEd: Continuing Experiments. Schnitzler, C., Vee, A. & Laquintano, T. (Eds.). WAC Clearinghouse. https://wac.colostate.edu/repository/collections/continuing-experiments/august-2024/prompt-engineering/
