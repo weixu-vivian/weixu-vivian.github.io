@@ -11,9 +11,9 @@ title                    : "Wei Xu"
 title_separator          : "-"
 name                     : &name "Wei Xu"
 description              : &description "Ph.D. student"
-url                      : https://weixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://weixu-vivian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weixu.github.io"
+repository               : "weixu-vivian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=aK00R2EAAAAJ"
   email            : "weixu1@arizona.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profilehttps://github.com/weixu-vivian/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weixu1117"
+  github           : "weixu-vivian"
   google_plus      :
   keybase          :
   instagram        :
