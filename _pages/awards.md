@@ -9,7 +9,7 @@ author_profile: true
 ## SELECTED AWARDS, GRANTS, AND FELLOWSHIPS
 
 * **Teaching Awards (1 GTA recipient per academic year)**
-  *  Difference and Inequality Teaching Award, Writing Program, University of Arizona |$200 |2024
+  *  Difference and Inequality Teaching Award, Writing Program, University of Arizona / $200 /2024
   *  Ruth Gardner Teaching Award, Writing Program, University of Arizona | $500 |2022
 * **Research Grants & Awards**
   *  Linda Waugh Research Award, SLAT, University of Arizona | $800 |2023
