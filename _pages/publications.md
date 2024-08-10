@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Refereed publications
+## Refereed Publications
 ### Published
 
 ### Peer-reviewed
@@ -47,7 +47,7 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 
 
 
-## Refereed conference presentations
+## Refereed Conference Presentations
 1. **Xu, W**. “Exploring EAL students’ genre knowledge in writing across languages and genres” at Writing Education Across Borders (WEAB), Salt Lake City, University of Utah, US, Fall 2024. Forthcoming.
 2. Tan, X., Wang, C., Zhao, W., **Xu, W**., Sun, Y. “On the edge of using, disclosing, and confronting AI: Complications beyond pedagogy” at Symposium on Second Language Writing (SSLW), The University of Arizona, US, Fall 2024. Forthcoming.
 3. Tardy, C.M., Palese, E., **Xu, W**. “Shifting to asynchronous teaching in a transnational writing program: Opportunities, challenges, and considerations” at Symposium on Second Language Writing (SSLW), The University of Arizona, US, Fall 2024. Forthcoming.
