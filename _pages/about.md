@@ -1,49 +1,75 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: About me
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an experienced ESL (English as a Second Language) educator with nearly eight years' teaching experience and qualitative researcher (PhDing) with main interests lying in Multilingual Writing, Genre Studies, and Multimodal Composition. At its core, my work aims to prepare multilingual students from diverse cultural and linguistic backgrounds to succeed in writing both across genres and across languages through synergistically employing language, genre-related and multimodal resources. I’m proficient in conducting interviews, questionnaires, surveys, participant observations, and analyzing data through qualitative coding and discourse thematic analysis; I’m trained in R for quantitative analysis. 
 
-A data-driven personal website
+As a current instructor of foundations writing courses at UofA, I specialize in designing and implementing needs analysis in classrooms. My teaching and research experience enriched my understanding of how students’ needs could be collected, analyzed, conceptualized, and addressed. I’m recently working on how to transfer my skills to conducting UX studies to identify opportunities, define problems, and understand user needs and expectations. 
+
+My most recent project looks into how multilingual writers' genre knowledge can be transferred across languages and how their genre knowledge develops through a bilingual genre rewrite task. My another recent project collaborated with my colleague seeks to answer how "citing" is practiced and achieved in video articles for academic purposes. 
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* 2022/08：My research is featured as **2023 Transportation Research Board 102nd Annual Meeting Spotlight of AI Research: Explainable AI**.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* 2022/04：I am honored to be featured as one of **the National Institute for Transportation and Communities Student Spotlights**. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* 2022/03：I am honored to be featured as one of **the ITE Mountain District Student Member Spotlights** in the Mountain District ITE Quarterly Magazine - The Summit!
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* 2022/03：I am honored to receive the **Jenny L. Grote Student Leadership Award**.This is an individual award meant to recognize students who have made substantial contributions to ITE and/or the transportation industry in Arizona. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* 2022/01：My first author paper "Eliminating the Impacts of Traffic Volume Variation on Before and After Studies: A Causal Inference Approach" was selected for the **Honorable Mention Award for the 2022 TSIG Student Paper Competition**.   
+ 
+* 2021/12：I’m honored to become a Paper Review Subcommittee Member of TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications (AED50).
+ 
+* 2021/12：I’m honored to become a Communications Subcommittee Member of TRB Standing Committee on Artificial Intelligence and Advanced Computing Applications (AED50).
 
-**Markdown generator**
+* 2021/12：I was awarded NITC Student Travel Award.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* 2021/12：I was awarded GPSC Student Travel Award.
+ 
+* 2021/10：I’m honored to become an Associate Committee Member (Student Member) of Artificial Intelligence Committee of ASCE Transportation & Development Institute (T&DI). 
+ 
+* 2021/09：My first author paper "Application of Transfer Learning Technique for Proactive Ramp Metering Performance Assessment" was awarded the **ITS Arizona 28th Annual Conference Best Paper Award**.                                            
+ 
+* 2021/09：My second author paper "A Multi-Source Data Approach for Estimating Vehicle Queue Length at Metered On-Ramps " got accepted by  Journal of Transportation Engineering, Part A: Systems.
+ 
+* 2021/04：I got the third place award in Student Paper Presentation Contest in 2021 Arizona Students’ Transportation Summit.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* 2020/12：I was awarded NITC Student Travel Award.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* 2020/10：Two papers I submitted to TRB 2021 were accepted for presentation.
+ 
+* 2020/09：My first author paper "Statistical Evaluation of Data Requirement for Ramp Metering Performance Assessment " got accepted by Transportation Research Part A: Policy and Practice.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* 2020/08：I became an instructor for CE363 (TRANSPORT ENGINEERING AND PAVEMENT DESIGN).
+
+* 2020/08：I was awarded Price, William Scholarship.
+
+* 2020/08：I was awarded Delbert Lewis Graduate Scholarship.
+
+* 2019/12：The ADOT project(SR-51 Adaptive Ramp Metering) I worked on was selected as the runner-up in the best TSMO project category (This competition was held by the National Operations Center of Excellence).
+
+* 2019/12：I was awarded NITC Student Travel Award.
+
+* 2019/10：I became an instructor for AUPP CE363 (TRANSPORT ENGINEERING AND PAVEMENT DESIGN).
+
+* 2019/10：I was employed by American University of Phnom Penh(AUPP) as an adjunct faculty member.
+
+* 2019/10：One paper I submitted to TRB 2020 was accepted for presentation.
+
+* 2019/08：I became a TA for CE363 (TRANSPORT ENGINEERING AND PAVEMENT DESIGN).
+
+* 2019/08：I was awarded NITC Student Travel Award.
+
+* 2019/05：I was awarded Delbert Lewis Graduate Scholarship.
+
+* 2019/05：One paper abstract accepted by Transportation and Communities Summit 2019.
+
+* 2019/01： I was selected as a referee to review manuscripts for IEEE Transactions on Intelligent Transportation Systems.
