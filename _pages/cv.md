@@ -67,11 +67,7 @@ author_profile: true
 * Symposium on Second Language Writing (SSLW)
 
 
-## Professional references
 
-* Dr. Christine Tardy (Advisor) / Professor of English / Director, International Foundations Writing / The University of Arizona / ctardy@arizona.edu
-* Dr. Suzanne Panferov Reese / Chair, Second Language Acquisition and Teaching, Interdisciplinary Ph.D. Program / The University of Arizona / panferov@arizona.edu
-* Dr. Emily Palese / Assistant Professor of Practice of English / Assistant Director, International Foundations Writing / The University of Arizona / epalese@arizona.edu
 
 
 
