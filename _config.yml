@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei Xu"
 title_separator          : "-"
 name                     : &name "Wei Xu"
-description              : &description "Ph.D. student"
+description              : &description "Ph.D. Candidate"
 url                      : https://weixu-vivian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixu-vivian.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wei Xu"
   avatar           : "Wei Xu.jpg"
-  bio              : "Ph.D.student at the University of Arizona"
+  bio              : "Ph.D. Candidate at the University of Arizona"
   location         : "Tucson, Arizona"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
