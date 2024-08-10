@@ -9,12 +9,12 @@ author_profile: true
 ## Refereed publications
 ### Published
 
-#### Peer-reviewed
+### Peer-reviewed
 1. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
 2. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
 3. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
    
-#### Editorial-reviewed
+### Editorial-reviewed
 1. Hakim, A., **Xu, W**., Fedewa, K., Lo, W., Kessler, M., Tardy, C. M. (2024). Researching genre knowledge across languages and contexts. Language Teaching, 1-5. https://doi.org/10.1017/S0261444823000484
 2. **Xu, W**. (2024). Bilingual genre redesign with AI. In TextGenEd: Continuing Experiments. Schnitzler, C., Vee, A. & Laquintano, T. (Eds.). WAC Clearinghouse. https://wac.colostate.edu/repository/collections/continuing-experiments/august-2024/prompt-engineering/
 3. **Xu, W**. (2023). Book review of Argumentative writing in a second language: Perspectives on research and pedagogy, Alan Hirvela and Diane Belcher (Eds.), University of Michigan Press (2021), Journal of English for Specific Purposes, 70, 148-150. https://doi.org/10.1016/j.esp.2022.12.003
@@ -26,7 +26,7 @@ author_profile: true
 Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 
 ### In-progress
-#### In press
+### In press
 1. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
 2. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 3. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
@@ -34,13 +34,13 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 5. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
 6. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
-#### Under review
+### Under review
 1. **Xu, W**. & Jia, H. (Under review). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo.
 2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
 3. Tan, X., **Xu, W**., Wang, C. (Under review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
 4. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
 
-#### In preparation
+### In preparation
 1. **Xu, W**., Staples, S., Avci, D., Cassie, B., Kladieva, A., Durgut, G. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. Research Methods in Applied Linguistics.
 2. Wang, C., **Xu, W**., Tan, X. (In preparation). Inquiry into doctoral and postdoctoral L2 writers’ AI-assisted academic writing practices: A longitudinal multiple case study. Journal of English for Academic Purposes.
 3. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
