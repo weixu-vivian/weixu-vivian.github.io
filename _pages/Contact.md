@@ -15,8 +15,6 @@ author_profile: true
 
 * weixu1@arizona.edu 
 
-## Phone
 
-* 520-369-8700
 
 
