@@ -34,10 +34,10 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 6. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
 #### Under review
-1. **Xu, W**. & Jia, H. (Under review). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo. Ibérica.
-2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? Language Learning & Technology.
-3. Tan, X., **Xu, W**., Wang, C. (Under review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Computers & Composition. Preprint available at: https://arxiv.org/abs/2403.19095
-4. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to? Assessing Writing. Preprint available at: http://ssrn.com/abstract=4889868
+1. **Xu, W**. & Jia, H. (Under review). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo.
+2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
+3. Tan, X., **Xu, W**., Wang, C. (Under review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
+4. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
 
 #### In preparation
 1. **Xu, W**., Staples, S., Avci, D., Cassie, B., Kladieva, A., Durgut, G. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. Research Methods in Applied Linguistics.
@@ -73,17 +73,6 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 24. Diaz, D., **Xu, W**., Viale, M., Wang, H., Su, P. & Jia, H."The early stages of the multilingual college email corpus (MCEC): A resource for researchers and language instructors" at the Lancaster Postgraduate in Linguistics and Language Teaching (LAEL PG), online, Summer 2021.
 25. Li, Y., Syrbe, M., **Xu, W**. “WE implications in L2 writing of Chinese college students” at Symposium of Second Language Writing (SSLW), Arizona State University, US, Fall 2019.
 
-
-
-## Academic referee work
-#### Academic Manuscript Reviewer
- * Reviewer (Invited) | Journal of Second Language Writing (JSLW) | 2024
- * Editor & Reviewer | Journal of Second Language Acquisition and Teaching | 2021-2023
- * Reviewer (Invited) | World English Language Journal | 2023-present
- * Reviewer (Invited) | Chapter of a Routledge Book| 2023
- * Reviewer (Co-reviewing with Dr. Christine Tardy) | System |2022
-#### Academic Conference Proposal Reviewer
- * Reviewer|Conference on College Composition and Communication (CCCC) |2024
 
 
 ## Workshops & Collaboratives
