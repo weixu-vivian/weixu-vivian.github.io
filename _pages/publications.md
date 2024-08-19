@@ -26,21 +26,21 @@ author_profile: true
 Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 
 ### In-progress
-### In press
-1. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
-2. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
-3. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
-4. **Xu, W**. & Gou, H. (In press). “Are cats good? An important study”: Using a meme article for teaching writing of analytic summaries. Writing Spaces.
-5. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
-6. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
+### In Press
+1. **Xu, W**. & Jia, H. (Accepted). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo.
+2. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
+3. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
+4. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
+5. **Xu, W**. & Gou, H. (In press). “Are cats good? An important study”: Using a meme article for teaching writing of analytic summaries. Writing Spaces.
+6. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
+7. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
-### Under review
-1. **Xu, W**. & Jia, H. (Under review). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo.
-2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
-3. Tan, X., **Xu, W**., Wang, C. (Under review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
-4. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
+### Under Review
+1. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
+2. Tan, X., **Xu, W**., Wang, C. (Under review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
+3. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
 
-### In preparation
+### In Preparation
 1. **Xu, W**., Staples, S., Avci, D., Cassie, B., Kladieva, A., Durgut, G. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. Research Methods in Applied Linguistics.
 2. Wang, C., **Xu, W**., Tan, X. (In preparation). Inquiry into doctoral and postdoctoral L2 writers’ AI-assisted academic writing practices: A longitudinal multiple case study. Journal of English for Academic Purposes.
 3. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
