@@ -27,7 +27,7 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 
 ### In-progress
 ### In Press
-1. **Xu, W**. & Jia, H. (Accepted). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo.
+1. **Xu, W**. & Jia, H. (Accepted). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo.Ibérica: Journal of the European Association of Languages ​​for Specific Purposes.
 2. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
 3. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 4. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
