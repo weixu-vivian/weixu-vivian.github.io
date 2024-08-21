@@ -28,15 +28,15 @@ author_profile: true
 * National Teacher’s Certificate, China, 2015
 * Business English Certificate (Higher), Cambridge, 2015
 
-## Professional service
+## Professional Service
 
-* **Professional development**
+* **Professional Development**
   * Member / Writing Across the Curriculum (WAC) Faculty Learning Communities (FLC), UofA /2024
   * Lead / International Foundations Writing Collaboratives, UofA / 2023
   * Member / Assessment Committee / Foundations Writing, UofA / 2022-2023
   * Member / Transnational Higher Education (TNHE) Collaborative Learning Community (CLC) / International Foundations Writing, UofA / 2022-2023
  
-* **Program administration**
+* **Program Administration**
   * Reviewer / Portfolio Assessment / Foundations Writing, UofA / 2022-2023
   * Reviewer / Portfolio Assessment / International Foundations Writing, UofA / 2023-present
   * Member / Search Committee of Writing Program Second Language Writing Director, UofA / 2023
@@ -58,7 +58,7 @@ author_profile: true
 * **Mentoring**
   * Peer Mentor / SLAT Buddy Program, UofA / 2023-present
 
-## Professional affiliations
+## Professional Affiliations
 
 * Conference on College Composition and Communication (CCCC)
 * American Association for Applied Linguistics (AAAL)
