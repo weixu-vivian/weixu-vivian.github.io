@@ -26,6 +26,14 @@ author_profile: true
 * **Cambridge International School / English Department, China / 2018-2020**
   * ESL Core First-Year High School English for EAL students / 6 sections
   * Academic Writing Advanced High School English for EAL students / 2 sections
+ 
+  ## Curriculum Developments
+
+* **University of Arizona / International Foundations Writing / 2023, 2024 Pre-Designed Courses (PDCs)**
+  * ENGL 106 First-Year Composition for EAL students / Asynch, Online
+  * ENGL 175 A First-Year Composition for EAL students 1-Credit Seminar / Asynch, Online
+  * ENGL 107 First-Year Composition for EAL students / Asynch, Online
+  * ENGL 108 First-Year Composition for EAL students / Asynch, Online
      
    
 ## Academic & Professional Credentials
