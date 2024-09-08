@@ -27,7 +27,7 @@ author_profile: true
   * ESL Core First-Year High School English for EAL students / 6 sections
   * Academic Writing Advanced High School English for EAL students / 2 sections
  
-  ## Curriculum Developments
+ ## Curriculum Developments
 
 * **University of Arizona / International Foundations Writing / 2023, 2024 Pre-Designed Courses (PDCs)**
   * ENGL 106 First-Year Composition for EAL students / Asynch, Online
