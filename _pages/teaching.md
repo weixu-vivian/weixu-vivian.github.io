@@ -31,7 +31,7 @@ author_profile: true
 
 * **University of Arizona / International Foundations Writing / 2023, 2024 Pre-Designed Courses (PDCs)**
   * ENGL 106 First-Year Composition for EAL students / Asynch, Online
-  * ENGL 175 A First-Year Composition for EAL students 1-Credit Seminar / Asynch, Online
+  * ENGL 175A First-Year Composition for EAL students 1-Credit Seminar / Asynch, Online
   * ENGL 107 First-Year Composition for EAL students / Asynch, Online
   * ENGL 108 First-Year Composition for EAL students / Asynch, Online
      
