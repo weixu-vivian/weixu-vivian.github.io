@@ -41,9 +41,9 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 3. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
 
 ### In Preparation
-1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. Research Methods in Applied Linguistics.
-2. Wang, C., **Xu, W**., Tan, X. (In preparation). Inquiry into doctoral and postdoctoral L2 writers’ AI-assisted academic writing practices: A longitudinal multiple case study. Journal of English for Academic Purposes.
-3. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
+1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
+2. Wang, C., **Xu, W**., Tan, X. (In preparation). Inquiry into doctoral and postdoctoral L2 writers’ AI-assisted academic writing practices: A longitudinal multiple case study. 
+3. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Invited Submission to Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
 
 
 
