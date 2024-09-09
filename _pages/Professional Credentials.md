@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Academic & Professional Credentials"
-permalink: /Academic & Professional Credentials/
+title: "Professional Credentials"
+permalink: /Professional Credentials/
 author_profile: true
 ---
 
-## Academic & Professional Credentials
+## Professional Credentials
 
 * **2023-Present Graduate Assistant Director**
   * International Foundations Writing Program / English Department / University of Arizona
