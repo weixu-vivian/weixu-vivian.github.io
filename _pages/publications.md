@@ -36,26 +36,27 @@ Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 7. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
 ### Under Review
-1. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
-2. Tan, X., **Xu, W**., Wang, C. (Under review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
-3. Tan, X., **Xu, W**., Wang, C. (Under review). Reading for voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
+1. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under minor revision review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
+2. Tan, X., **Xu, W**., Wang, C. (Under minor revision review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
+3. Tan, X., **Xu, W**., Wang, C. (Under review). Voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
+4. Wang, C., **Xu, W**., Tan, X. (Under review). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
+5. Tan, X., Wang, C., **Xu, W**. (Under review). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing.
 
 ### In Preparation
 1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
-2. Wang, C., **Xu, W**., Tan, X. (In preparation). Inquiry into doctoral and postdoctoral L2 writers’ AI-assisted academic writing practices: A longitudinal multiple case study. 
-3. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Invited Submission to Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
+2. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Invited Submission to Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
 
 
 
 ## Refereed Conference Presentations
-1. **Xu, W**. “Exploring EAL students’ genre knowledge in writing across languages and genres” at Writing Education Across Borders (WEAB), Salt Lake City, University of Utah, US, Fall 2024. Forthcoming.
+1. **Xu, W**. “Exploring EAL students’ genre knowledge in writing across languages and genres” at Writing Education Across Borders (WEAB), Salt Lake City, University of Utah, US, Fall 2024. 
 2. Tan, X., Wang, C., Zhao, W., **Xu, W**., Sun, Y. “On the edge of using, disclosing, and confronting AI: Complications beyond pedagogy” at Symposium on Second Language Writing (SSLW), The University of Arizona, US, Fall 2024. Forthcoming.
 3. Tardy, C.M., Palese, E., **Xu, W**. “Shifting to asynchronous teaching in a transnational writing program: Opportunities, challenges, and considerations” at Symposium on Second Language Writing (SSLW), The University of Arizona, US, Fall 2024. Forthcoming.
 4. **Xu, W**., Gou, H., Mejia, J.F., Palese, E., Tardy, C.M. “Demystifying administration in a transnational writing program: The role of Graduate Assistant Directors” at Symposium on Second Language Writing (SSLW), The University of Arizona, US, Fall 2024. Forthcoming.
 5. **Xu, W**., Avci, D., Durgut, G., Cassie, B., Kladieva, A., Staples, S. “Annotating multimodal corpus of college first-year writing (FYW) students’ work: Praxis, challenges, and implications” at American Association of Corpus Linguistics (AACL), Eugene, University of Oregon, Oregon, US, Fall 2024. Forthcoming.
 6. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. “Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams” at Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC), Arlington, Virginia, US, Fall 2024. Forthcoming.
 7. **Xu, W**. (Co-presenting with Tan, X. and Wang, C.) Panel session of “Navigating the postdigital and post-pandemic writing spaces: Multilingualism, multimodality, and AI” at Computers and Writing Conference, Texas Christian University, US, Summer 2024.
-8. **Xu, W**W. & Tan, X. (Invited Presentation) Colloquium of “Using ChatGPT in higher education: Stakeholders’ perspectives” at American Association of Applied Linguistics (AAAL), Houston, Texas, US, Spring 2024.
+8. **Xu, W**. & Tan, X. (Invited Presentation) Colloquium of “Using ChatGPT in higher education: Stakeholders’ perspectives” at American Association of Applied Linguistics (AAAL), Houston, Texas, US, Spring 2024.
 9. Tan, X. & **Xu, W**. (Invited Presentation) Colloquium of “Words & machines: Looking into the future of language education and AI” at American Association of Applied Linguistics (AAAL), Houston, Texas, US, Spring 2024.
 10. **Xu, W**. (Collaborative workshop) “Finding abundance and combatting scarcity mindset in and around second language writing” at Conference on College Composition and Communication (CCCC), Spokane, Washington, US, Spring 2024.
 11. **Xu, W**. & Tan, X. “Languaging with AI assistance” at Conference on College Composition and Communication(CCCC), Spokane, Washington, US, Spring 2024.
