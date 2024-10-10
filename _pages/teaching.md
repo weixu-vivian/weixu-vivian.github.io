@@ -8,7 +8,7 @@ author_profile: true
 ## Courses Taught [(Teaching Portfolio)](https://sites.google.com/arizona.edu/weixu1?usp=sharing)
 
 * **University of Arizona / Professional and Technical Writing / 2024**
-  * ENGL313 Introduction to Professional and Technical Writing / 1 section
+  * ENGL 313 Introduction to Professional and Technical Writing / 1 section
     
 * **University of Arizona / Writing Program / 2021-2023**
   * ENGL 101 First-Year Composition / 2 sections (in person) & 1 section (online)
