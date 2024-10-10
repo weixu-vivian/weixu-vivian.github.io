@@ -17,14 +17,13 @@ author_profile: true
 ### Editorial-reviewed
 1. Hakim, A., **Xu, W**., Fedewa, K., Lo, W., Kessler, M., Tardy, C. M. (2024). Researching genre knowledge across languages and contexts. Language Teaching, 1-5. https://doi.org/10.1017/S0261444823000484
 2. **Xu, W**. (2024). Bilingual genre redesign with AI. In TextGenEd: Continuing Experiments. Schnitzler, C., Vee, A. & Laquintano, T. (Eds.). WAC Clearinghouse. https://wac.colostate.edu/repository/collections/continuing-experiments/august-2024/prompt-engineering/
-3. 5. **Xu, W**. & Gou, H. (2024). “Are cats good? An important study”: Using a meme article for teaching writing of analytic summaries. Writing Spaces.
+3. **Xu, W**. & Gou, H. (2024). “Are cats good? An important study”: Using a meme article for teaching writing of analytic summaries. Writing Spaces.
 4. **Xu, W**. (2023). Book review of Argumentative writing in a second language: Perspectives on research and pedagogy, Alan Hirvela and Diane Belcher (Eds.), University of Michigan Press (2021), Journal of English for Specific Purposes, 70, 148-150. https://doi.org/10.1016/j.esp.2022.12.003
 5. **Xu, W**. (2023). Book review of Genre explained: Frequently asked questions and answers about genre-based instruction, Christine Tardy, Nigel Caplan, Ann Johns. University of Michigan Press, Ann Arbor (2023), System. https://doi.org/10.1016/j.system.2023.103113
 6. **Xu, W**. (2023). L2 Email writing as a site of identity struggle: The story of an international GTA. AAALGrads., 8(1). Feature Article. https://www.aaal-gsc.org/spring-2023-newsletter
 7. **Xu, W**. (2023). Multilingual genre knowledge development in a college writing course. TESOL SLW News. Research Brief. https://my.tesol.org/news/742714
 8. Damian, Y., **Xu, W**., Viale, M., Wang, H., Su, P., Jia, H. (2023). The early stages of the multilingual college email corpus (MCEC): A resource for researchers and language instructors. Lancaster Postgraduate Conference in Linguistics and Language Teaching 2021 (LAEL PG 21), 13. https://wp.lancs.ac.uk/laelpgconference/papers-from-lael-pg/papers-from-lael-pg-2021-volume-13/
-9. Diaz, D., Jia, H., **Xu, W**., Wang, H. (2021). Sample data for "Design and collection challenges of building an academic email corpus for linguistics and computational research". University of Arizona Research Data
-Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
+9. Diaz, D., Jia, H., **Xu, W**., Wang, H. (2021). Sample data for "Design and collection challenges of building an academic email corpus for linguistics and computational research". University of Arizona Research Data Repository. Dataset. https://doi.org/10.25422/azu.data.14259785.v1
 
 ### In-progress
 ### In Press
