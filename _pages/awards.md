@@ -9,8 +9,8 @@ author_profile: true
 ## SELECTED AWARDS, GRANTS, AND FELLOWSHIPS
 
 * **Fellowships & Scholarships**
-  *Andrew C. Comrie GIDP (Graduate Interdisciplinary Programs) Doctoral Fellowship (1 nominee by home Program; 1 
-  recipient selected from all 15 GIDP doctoral program nominees), University of Arizona / $30,000 / 2024
+  *  Andrew C. Comrie GIDP (Graduate Interdisciplinary Programs) Doctoral Fellowship (1 nominee by home Program; 
+     1 recipient selected from all 15 GIDP doctoral program nominees), University of Arizona / $30,000 / 2024
   *  Graduate College Fellowship, University of Arizona / $7,700 / 2021
   *  National Scholarship (< 0.5% selection rate), Ministry of Education of China / ¥8,000 / 2014
 * **Teaching Awards (1 GTA recipient per academic year)**
