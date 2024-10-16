@@ -10,9 +10,11 @@ author_profile: true
 ### Published
 
 ### Peer-reviewed
-1. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
-2. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
-3. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
+1. **Xu, W**. & Jia, H. (Accepted). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo. Ibérica: Journal of the European Association of Languages ​​for Specific Purposes.
+2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Accepted). Does digital multimodal composing help improve EFL students' metacognitive knowledge? Language Learning & Technology.
+3. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
+4. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
+5. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
    
 ### Editorial-reviewed
 1. Hakim, A., **Xu, W**., Fedewa, K., Lo, W., Kessler, M., Tardy, C. M. (2024). Researching genre knowledge across languages and contexts. Language Teaching, 1-5. https://doi.org/10.1017/S0261444823000484
@@ -27,19 +29,17 @@ author_profile: true
 
 ### In-progress
 ### In Press
-1. **Xu, W**. & Jia, H. (Accepted). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo. Ibérica: Journal of the European Association of Languages ​​for Specific Purposes.
-2. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
-3. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
-4. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
-5. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
-6. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
+1. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
+2. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
+3. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
+4. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
+5. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
 ### Under Review
-1. **Xu, W**., Tan, X., Wang, C., Fu, D. (Under minor revision review). Does digital multimodal composing help improve EFL students' metacognitive knowledge? 
-2. Tan, X., **Xu, W**., Wang, C. (Under minor revision review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
-3. Tan, X., **Xu, W**., Wang, C. (Under review). Voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
-4. Wang, C., **Xu, W**., Tan, X. (Under review). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
-5. Tan, X., Wang, C., **Xu, W**. (Under review). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing.
+1. Tan, X., **Xu, W**., Wang, C. (Under minor revision review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
+2. Tan, X., **Xu, W**., Wang, C. (Under review). Voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
+3. Wang, C., **Xu, W**., Tan, X. (Under review). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
+4. Tan, X., Wang, C., **Xu, W**. (Under review). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing.
 
 ### In Preparation
 1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
