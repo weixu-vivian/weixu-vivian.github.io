@@ -20,8 +20,8 @@ author_profile: true
   * SLAT 596Y SLAT Proseminar / 2 sections
     
 * **Jiangxi Normal University / Foreign Languages College, China / 2017-2018**
-  * College English First-Year College English for EAL students / 2 sections
-  * English-Mandarin Translation Core course for Senior English-major college EAL students / 1 section
+  * College English for First-Year College Students / 2 sections
+  * English-Mandarin Translation Core course for Senior English-major College Students / 1 section
     
 * **Cambridge International School / English Department, China / 2018-2020**
   * ESL Core First-Year High School English for EAL students / 6 sections
