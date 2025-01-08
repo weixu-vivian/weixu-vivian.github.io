@@ -15,6 +15,9 @@ author_profile: true
 3. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
 4. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
 5. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
+6. Tan, X., **Xu, W**., Wang, C. (2024). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Computers & Composition, 75, 102893. https://doi.org/10.1016/j.compcom.2024.102893 
+7. Tan, X., Wang, C., **Xu, W**. (2025). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing. Applied Linguistics, amae092. 
+https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092 
    
 ### Editorial-reviewed
 1. Hakim, A., **Xu, W**., Fedewa, K., Lo, W., Kessler, M., Tardy, C. M. (2024). Researching genre knowledge across languages and contexts. Language Teaching, 1-5. https://doi.org/10.1017/S0261444823000484
@@ -36,10 +39,8 @@ author_profile: true
 5. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
 ### Under Review
-1. Tan, X., **Xu, W**., Wang, C. (Under minor revision review). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Preprint available at: https://arxiv.org/abs/2403.19095
-2. Tan, X., **Xu, W**., Wang, C. (Under review). Voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
-3. Wang, C., **Xu, W**., Tan, X. (Under review). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
-4. Tan, X., Wang, C., **Xu, W**. (Under review). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing.
+1. Tan, X., **Xu, W**., Wang, C. (Under review). Voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
+2. Wang, C., **Xu, W**., Tan, X. (Under review). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
 
 ### In Preparation
 1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
