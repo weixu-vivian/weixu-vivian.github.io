@@ -35,15 +35,20 @@ author_profile: true
   * Second Language Acquisition and Teaching (SLAT) / University of Arizona
     * Co-taught a unit of the course two times: Created and taught lessons on instructional dimension of Second Language Acquisition and Teaching (i.e., multiliteracies, genre-based pedagogy, and multimodal composing in teaching writing) for the graduate course of Proseminar for first-year SLAT doctoral students; selected readings for the unit; provided assessment feedback on students’ engagement with readings; drafted short paper writing prompt; provided feedback on SLAT first-year doctoral students’ coursework papers; secured faculty guest speakers.
  
-* **2018-2020 Instructor**
-  * English Department / Cambridge International School / China
-    * Led the curriculum design and taught for the courses of “Core: English as a Second Language” & “English Academic Writing for IGCSE (International General Certificate of Secondary Education)”; assessed student learning.
- 
-* **2017-2018 Adjunct Lecturer**
-  * Foreign Languages College / Jiangxi Normal University / China
-    * Created and taught lessons, assessed learning, and provided student feedback in “College English” classes for non-English-major students, and in the course of “English-Chinese Translation” for senior English-major college students.
-  
-* **2015-2016 Practice Teacher**
-  * Nanchang Foreign Languages School / China
-    * Facilitated the led K-12 English teacher in course preparation, delivery, and assessment; participated in collaborative course design; assisted class management.
 
+* **Academic Manuscript Reviewing/Editing**
+  * Reviewer / Journal of Second Language Writing |2024, 2025
+  * Reviewer / System|2025
+  * Reviewer / International Journal of Applied Linguistics |2025
+  * Reviewer / Applied Linguistics / 2024
+  * Reviewer / Language Learning & Technology|2024, 2025
+  * Editor & Reviewer|Journal of Second Language Acquisition and Teaching / 2021-2023
+  * Reviewer / World English Language Journal / 2023-2024
+  * Reviewer / Chapter of a Routledge Book / 2023
+  * Reviewer / Next Research  / 2025 
+  * Reviewer (Co-reviewing with Dr. Christine Tardy) / System / 2022
+    
+* **Academic Conference Proposal Reviewing**
+  * Reviewer / Conference on College Composition and Communication (CCCC)  / 2024, 2025
+  * Proposal Coach / Conference on College Composition and Communication (CCCC) / 2025
+  * Reviewer / Symposium on Second Language Writing (SSLW) / 2025
