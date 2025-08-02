@@ -8,24 +8,20 @@ author_profile: true
 
 ## Education
 
-* **Ph.D., Second Language Acquisition & Teaching, University of Arizona, May 2025 (expected)**
+* **Ph.D., Second Language Acquisition & Teaching (SLAT), University of Arizona, May 2025 (expected)**
   * Major: Instructional dimension in Second Language Acquisition and Teaching
-  * Minor: Technology in Second Language Teaching
+  * Minor: Rhetoric, Composition, and Teaching of English (RCTE)
   * Dissertation: Exploring Multilingual Genre Knowledge Development in a College First-Year Writing(FYW) Course
   * Committee: Drs. Christine Tardy (chair), Julieta Fernandez, Suzanne Panferov Reese, Guillaume Gentil (special member)
 
 * **M.A., Teaching English to Speakers of Other Languages (TESOL)**
   * The University of Durham, Durham, UK / September 2017
-  * Advisor: Dr. Philip Nathan
 
-* **B.A., English Studies**
-  * Jiangxi Normal University, Nanchang, China / June 2016
 
 ## Certificates
 
 * Certificate NDP, Technology in Second Language Teaching, The University of Arizona, 2024
 * Quality Matters (QM) Certification, 2024
-* National Teacher’s Certificate, China, 2015
 * Business English Certificate (Higher), Cambridge, 2015
 
 ## Professional Service
