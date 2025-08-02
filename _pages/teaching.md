@@ -5,8 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses Taught [(Teaching Portfolio)](https://sites.google.com/arizona.edu/weixu1?usp=sharing)
+## Courses Taught 
 
+* **Northern Illinois University / Advanced Essay Composition / 2025**
+  * ENGL 300A Advanced Essay Composition / 1 section
+    
 * **University of Arizona / Professional and Technical Writing / 2024**
   * ENGL 313 Introduction to Professional and Technical Writing / 1 section
     
