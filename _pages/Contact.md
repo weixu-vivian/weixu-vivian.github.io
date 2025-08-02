@@ -8,13 +8,12 @@ author_profile: true
 
 ## Address
 
-* Second Language Acquisition & Teaching, 1103 E. 2nd St. Harvill, Room 241
-  PO Box 210076, Tucson, AZ 85721
+* Reavis Hall 232, Northern Illinois University, DeKalb, IL, USA
 
 
 ## Email
 
-* weixu1@arizona.edu 
+* weixu@niu.edu 
 
 
 
