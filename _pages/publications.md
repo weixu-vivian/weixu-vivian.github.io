@@ -6,18 +6,24 @@ author_profile: true
 ---
 
 
-## Refereed Publications
-### Published
-
+## Publications
+### Dissertation
+Xu., W. (2025). Exploring Multilingual Genre Knowledge in a College First-Year Writing (FYW) Course 
+	(Publication No. 22167) [Doctoral dissertation, The University of Arizona]. ProQuest Dissertations
+   and Theses database.
+ 
 ### Peer-reviewed
-1. **Xu, W**. & Jia, H. (Accepted). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo. Ibérica: Journal of the European Association of Languages ​​for Specific Purposes.
+1. **Xu, W**. & Jia, H. (2025). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo. Ibérica: Journal of the European Association of Languages ​​for Specific Purposes.
 2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Accepted). Does digital multimodal composing help improve EFL students' metacognitive knowledge? Language Learning & Technology.
 3. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
 4. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
 5. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
 6. Tan, X., **Xu, W**., Wang, C. (2024). Purposeful remixing with generative AI: Constructing designer voice in multimodal composing. Computers & Composition, 75, 102893. https://doi.org/10.1016/j.compcom.2024.102893 
 7. Tan, X., Wang, C., **Xu, W**. (2025). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing. Applied Linguistics, amae092. 
-https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092 
+https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092
+8. **Xu, W**. & Tan, X. (2025). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
+9. Wang, C., **Xu, W**., Tan, X. (Accepted). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
+10. Tan, X., **Xu, W**., Wang, C. (2025). Voice in AI-assisted multimodal texts: What do readers pay attention to? Computers & Composition. https://doi.org/10.1016/j.compcom.2025.102918  
    
 ### Editorial-reviewed
 1. Hakim, A., **Xu, W**., Fedewa, K., Lo, W., Kessler, M., Tardy, C. M. (2024). Researching genre knowledge across languages and contexts. Language Teaching, 1-5. https://doi.org/10.1017/S0261444823000484
@@ -32,15 +38,10 @@ https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092
 
 ### In-progress
 ### In Press
-1. **Xu, W**. & Tan, X. (In press). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
-2. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
-3. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
-4. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
-5. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
-
-### Under Review
-1. Tan, X., **Xu, W**., Wang, C. (Under review). Voice in AI-assisted multimodal texts: What do readers pay attention to?  Preprint available at: http://ssrn.com/abstract=4889868
-2. Wang, C., **Xu, W**., Tan, X. (Under review). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
+1. **Xu, W**. (In press). Remix and patchwriting: Are they plagiarism? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
+2. **Xu, W**. (In press). Teaching Visual Rhetoric. In New ways in teaching visual literacy. Horvath, L. & Iannuzzi, S.(Eds.). TESOL Press.
+3. Tan, X., **Xu, W**., Wang, C. (In press). Show and tell: Knowledge transfer of voice across genres and modes. In Multimodal composition and writing transfer pedagogy. R. Shepherd, L. W. Mina, M. Davis, and K.P. Alexander (Eds.).
+4. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
 ### In Preparation
 1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
@@ -77,16 +78,19 @@ https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092
 
 
 
-## Workshops & Collaboratives
-1. “Navigating the learning management system (LMS) D2L.” Host. The University of Arizona International Foundations Writing Program, Online, August 12th, 2024.
-2. “Tried and True: Grants & academic conferences applications.” Second Language Acquisition and Teaching, Invited Panelist, University of Arizona, Online, March 28th, 2024.
-3. “Revisiting AI policy in global campus classrooms.” Discussant. The University of Arizona International Foundations Writing Program, Online, January 3rd, 2024.
-4. “Accommodate students’ disciplinary backgrounds: misconceptions, challenges, and strategies.” Discussant. The University of Arizona International Foundations Writing Program, Online, November 12th, 2023.
-5. “Accessing writing program resources for teaching.” Host (Co-hosting with Dr. Emily Palese). The University of Arizona International Foundations Writing Program, Online, October 30th, 2023.
-6. “Chinese names & phrases pronunciation tips.” Host (Co-hosting with Kevin Fedewa). The University of Arizona International Foundations Writing Program, Online, August 16th, 2023.
-7. “Educational norms and lesson planning considerations for teaching in China.” Host (Co-hosting with Kate Shea). The University of Arizona International Foundations Writing Program, Online, August 14th, 2023.
-8. “Teaching strategies for active learning in the writing classroom.” WP Special Event: Digital Teaching Talk. Speaker (Co-presenting with Hongni Gou). The University of Arizona Writing Program, Online, April 19th, 2022.
-9. “Collecting & evaluating academic sources.” Summer Institute in Digital Literacy. Speaker. Online, July 15th, 2021.
+## Workshops & Talks
+1.“Decoding transnational public-facing science: A genre analysis of COVID-19 posts on non-English 
+social media.” Invited Talk. Digital Discourse, Media, & Writing Lab, University of South Florida, 
+Online, September 26, 2025.
+2. “Navigating the learning management system (LMS) D2L.” Host. The University of Arizona International Foundations Writing Program, Online, August 12th, 2024.
+3. “Tried and True: Grants & academic conferences applications.” Second Language Acquisition and Teaching, Invited Panelist, University of Arizona, Online, March 28th, 2024.
+4. “Revisiting AI policy in global campus classrooms.” Discussant. The University of Arizona International Foundations Writing Program, Online, January 3rd, 2024.
+5. “Accommodate students’ disciplinary backgrounds: misconceptions, challenges, and strategies.” Discussant. The University of Arizona International Foundations Writing Program, Online, November 12th, 2023.
+6. “Accessing writing program resources for teaching.” Host (Co-hosting with Dr. Emily Palese). The University of Arizona International Foundations Writing Program, Online, October 30th, 2023.
+7. “Chinese names & phrases pronunciation tips.” Host (Co-hosting with Kevin Fedewa). The University of Arizona International Foundations Writing Program, Online, August 16th, 2023.
+8. “Educational norms and lesson planning considerations for teaching in China.” Host (Co-hosting with Kate Shea). The University of Arizona International Foundations Writing Program, Online, August 14th, 2023.
+9. “Teaching strategies for active learning in the writing classroom.” WP Special Event: Digital Teaching Talk. Speaker (Co-presenting with Hongni Gou). The University of Arizona Writing Program, Online, April 19th, 2022.
+10. “Collecting & evaluating academic sources.” Summer Institute in Digital Literacy. Speaker. Online, July 15th, 2021.
 
 
 
