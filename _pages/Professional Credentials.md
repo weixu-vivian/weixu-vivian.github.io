@@ -7,7 +7,11 @@ author_profile: true
 
 ## Professional Credentials
 
-* **2023-Present Graduate Assistant Director**
+* **2025-Present Assistant Professor**
+  * English Department / Northern Illinois University
+    * Teaching upper-level undergraduate composition courses and graduate-level courses on writing studies; conducted research on rhetoric and writing studies, with a specification in second language writing; contributed to departmental service.
+    
+* **2023-2024 Graduate Assistant Director**
   * International Foundations Writing Program / English Department / University of Arizona
     * Serving on the writing program administrative team for a transnational university writing program. Duties include: Developed, assessed, and adapted curricula based on input from stakeholders; provided instructional and technological support for writing instructors; conducted program outcomes assessment; contributed to applied research on L2 writing curriculum development; led collaborative professional development discussions for writing instructors; served on the Hiring Committee to hire new writing instructors.
  
