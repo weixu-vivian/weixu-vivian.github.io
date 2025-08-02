@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wei Xu"
 title_separator          : "-"
 name                     : &name "Wei Xu"
-description              : &description "Ph.D. Candidate"
+description              : &description "Assistant Professor"
 url                      : https://weixu-vivian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weixu-vivian.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Wei Xu"
   avatar           : "Wei Xu2.jpg"
-  bio              : "Ph.D. Candidate at the University of Arizona"
-  location         : "Tucson, Arizona"
+  bio              : "Assitant Professor at Northern Illinois University"
+  location         : "DeKalb, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=aK00R2EAAAAJ"
-  email            : "weixu1@arizona.edu"
+  email            : "weixu@niu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profilehttps://github.com/weixu-vivian/yourprofile"
   uri              :
   bitbucket        :
