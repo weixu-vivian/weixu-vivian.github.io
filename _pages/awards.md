@@ -8,11 +8,10 @@ author_profile: true
 
 ## SELECTED AWARDS, GRANTS, AND FELLOWSHIPS
 * **Best Paper Awards**
-  *  Asia-Pacific Language for Specific Purposes and Professional Communication Association (LSPPC) Christopher N. Candlin Award for the Best Paper by Early Career Scholars  / 2025
+  *  Asia-Pacific Language for Specific Purposes and Professional Communication Association (LSPPC) Christopher N. Candlin Award for the Best Paper by Early Career Scholars  / $150 / 2025
 * **Fellowships & Scholarships**
-  *  Andrew C. Comrie GIDP (Graduate Interdisciplinary Programs) Doctoral Fellowship (1 nominee by home Program; 1 recipient selected from all 15 GIDP doctoral program nominees), University of Arizona / $30,000 / 2024
+  *  Andrew C. Comrie GIDP (Graduate Interdisciplinary Programs) Doctoral Fellowship, University of Arizona / $30,000 / 2024
   *  Graduate College Fellowship, University of Arizona / $7,700 / 2021
-  *  National Scholarship (< 0.5% selection rate), Ministry of Education of China / ¥8,000 / 2014
 * **Teaching Awards (1 GTA recipient per academic year)**
   *  Difference and Inequality Teaching Award, Writing Program, University of Arizona / $200 / 2024
   *  Ruth Gardner Teaching Award, Writing Program, University of Arizona / $500 / 2022
