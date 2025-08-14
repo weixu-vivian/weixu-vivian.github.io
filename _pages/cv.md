@@ -11,7 +11,7 @@ author_profile: true
 * **Ph.D., Second Language Acquisition and Teaching**
   * The University of Arizona, Tucson, USA, 2025
   * Major: Instructional dimension in Second Language Acquisition and Teaching
-  * Minor: Rhetoric, Composition, and Teaching of English (RCTE)
+  * Minor: Rhetoric, Composition, and Teaching of English 
 
 * **M.A., Teaching English to Speakers of Other Languages (TESOL)**
   * The University of Durham, Durham, UK, 2017
