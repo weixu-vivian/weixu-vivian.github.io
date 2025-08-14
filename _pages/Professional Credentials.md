@@ -37,12 +37,12 @@ author_profile: true
  
 
 * **Academic Manuscript Reviewing/Editing**
-  * Reviewer / Journal of Second Language Writing |2024, 2025
+  * Reviewer / Journal of Second Language Writing / 2024, 2025
   * Reviewer / System|2025
-  * Reviewer / International Journal of Applied Linguistics |2025
+  * Reviewer / International Journal of Applied Linguistics / 2025
   * Reviewer / Applied Linguistics / 2024
   * Reviewer / Language Learning & Technology|2024, 2025
-  * Editor & Reviewer|Journal of Second Language Acquisition and Teaching / 2021-2023
+  * Editor & Reviewer / Journal of Second Language Acquisition and Teaching / 2021-2023
   * Reviewer / World English Language Journal / 2023-2024
   * Reviewer / Chapter of a Routledge Book / 2023
   * Reviewer / Next Research  / 2025 
