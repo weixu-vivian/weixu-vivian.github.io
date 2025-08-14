@@ -79,7 +79,7 @@ https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092
 
 
 ## Workshops & Talks
-1.“Decoding transnational public-facing science: A genre analysis of COVID-19 posts on non-English 
+1. “Decoding transnational public-facing science: A genre analysis of COVID-19 posts on non-English 
 social media.” Invited Talk. Digital Discourse, Media, & Writing Lab, University of South Florida, 
 Online, September 26, 2025.
 2. “Navigating the learning management system (LMS) D2L.” Host. The University of Arizona International Foundations Writing Program, Online, August 12th, 2024.
