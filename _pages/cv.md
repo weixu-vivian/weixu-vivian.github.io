@@ -8,14 +8,12 @@ author_profile: true
 
 ## Education
 
-* **Ph.D., Second Language Acquisition & Teaching (SLAT), University of Arizona, May 2025 (expected)**
+* **Ph.D., Second Language Acquisition & Teaching (SLAT), University of Arizona, 2025 **
   * Major: Instructional dimension in Second Language Acquisition and Teaching
   * Minor: Rhetoric, Composition, and Teaching of English (RCTE)
-  * Dissertation: Exploring Multilingual Genre Knowledge Development in a College First-Year Writing(FYW) Course
-  * Committee: Drs. Christine Tardy (chair), Julieta Fernandez, Suzanne Panferov Reese, Guillaume Gentil (special member)
 
 * **M.A., Teaching English to Speakers of Other Languages (TESOL)**
-  * The University of Durham, Durham, UK / September 2017
+  * The University of Durham, Durham, UK, 2017
 
 
 ## Certificates
