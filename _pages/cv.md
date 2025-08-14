@@ -8,7 +8,8 @@ author_profile: true
 
 ## Education
 
-* **Ph.D., Second Language Acquisition & Teaching (SLAT), University of Arizona, 2025 **
+* **Ph.D., Second Language Acquisition and Teaching**
+  * The University of Arizona, Tucson, USA, 2025
   * Major: Instructional dimension in Second Language Acquisition and Teaching
   * Minor: Rhetoric, Composition, and Teaching of English (RCTE)
 
