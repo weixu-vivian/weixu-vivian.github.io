@@ -10,7 +10,7 @@ author_profile: true
 
 * **Ph.D., Second Language Acquisition and Teaching**
   * The University of Arizona, Tucson, USA, 2025
-  * Major: Instructional dimension in Second Language Acquisition and Teaching
+  * Major: Second Language Acquisition and Teaching
   * Minor: Rhetoric, Composition, and Teaching of English 
 
 * **M.A., Teaching English to Speakers of Other Languages (TESOL)**
