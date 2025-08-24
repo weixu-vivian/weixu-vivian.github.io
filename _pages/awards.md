@@ -28,8 +28,6 @@ author_profile: true
   *  GPSC (Graduate and Professional Student Council) Travel Award, University of Arizona / $2,500 / 2021, 2022
 * **Competition Awards**    
   *  SBSRI (Social & Behavioral Sciences Research Institute) Research Showcase Best Poster Award, University of Arizona SBSRI / $250 / 2024
-  *  First Prize Award, National Final, “FLTRP Cup” (Foreign Language Teaching and Research Press) of English Writing Contest, Foreign Language Teaching and Research Press, Beijing, 2013
-  *  Second Prize Award, National Final, “FLTRP Cup” (Foreign Language Teaching and Research Press) of English Public Speaking Contest, Foreign Language Teaching and Research Press, Beijing, 2014
 
 
 
