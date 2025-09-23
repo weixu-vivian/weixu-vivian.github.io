@@ -8,13 +8,11 @@ author_profile: true
 
 ## Publications
 ### Dissertation
-Xu., W. (2025). Exploring Multilingual Genre Knowledge in a College First-Year Writing (FYW) Course 
-	(Publication No. 22167) [Doctoral dissertation, The University of Arizona]. ProQuest Dissertations
-   and Theses database.
+**Xu, W**. (2025). Exploring Multilingual Genre Knowledge in a College First-Year Writing (FYW) Course (Publication No. 22167) [Doctoral dissertation, The University of Arizona]. ProQuest Dissertations and Theses database.
  
 ### Peer-reviewed
 1. **Xu, W**. & Jia, H. (2025). Scientific knowledge dissemination in the multilingual and digital era: A multimodality-enhanced genre analysis of Chinese epidemiologists’ COVID-19 posts on Sina Weibo. Ibérica: Journal of the European Association of Languages ​​for Specific Purposes.
-2. **Xu, W**., Tan, X., Wang, C., Fu, D. (Accepted). Does digital multimodal composing help improve EFL students' metacognitive knowledge? Language Learning & Technology.
+2. **Xu, W**., Tan, X., Wang, C., Fu, D. (2025). Does digital multimodal composing help improve EFL students' metacognitive knowledge? Language Learning & Technology.
 3. **Xu, W**. & Tan, X. (2024). Beyond words: L2 writing teachers’ visual conceptualizations of Chat GPT in teaching and learning. Journal of Second Language Writing, 64, 101110. https://doi.org/10.1016/j.jslw.2024.101110
 4. Tan, X. & **Xu, W**. (2024). Incorporating direct quotations in videos for academic purposes: An exploratory study. Computers & Composition, 72, 102852. https://doi.org/10.1016/j.compcom.2024.102852
 5. **Xu, W**. (2017). Exploring language in Chinese college students’ English public speaking contests from a genre perspective and its implications for English language teaching. Asian EFL Journal, 20(3). https://www.asian-efl-journal.com/thesis/2017-thesis/index.htm
@@ -22,7 +20,7 @@ Xu., W. (2025). Exploring Multilingual Genre Knowledge in a College First-Year W
 7. Tan, X., Wang, C., **Xu, W**. (2025). To disclose or not to disclose: Exploring the risk of being transparent about GAI use in second language writing. Applied Linguistics, amae092. 
 https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092
 8. **Xu, W**. & Tan, X. (2025). Blessing or cursing: Second language writing teachers’ perspectives of using ChatGPT in classrooms. In Words and machines: Rethinking writing education in the age of generative AI. Wang, C. & Tian, Z. (Eds.). Routledge.
-9. Wang, C., **Xu, W**., Tan, X. (Accepted). Beyond the human-AI binaries: Advanced L2 writers’ self-directed use of generative AI in academic writing.
+9. Wang, C., **Xu, W**., Tan, X. (2025). Advanced multilingual writers’ self-directed use of generative AI in academic writing: Rethinking writing, authorship, and learning. Applied Linguistics, amaf057. https://doi.org/10.1093/applin/amaf057 
 10. Tan, X., **Xu, W**., Wang, C. (2025). Voice in AI-assisted multimodal texts: What do readers pay attention to? Computers & Composition. https://doi.org/10.1016/j.compcom.2025.102918  
    
 ### Editorial-reviewed
@@ -44,8 +42,13 @@ https://doi-org.ezproxy3.library.arizona.edu/10.1093/applin/amae092
 4. Tan, X., Wang, C., **Xu, W**. (In press). Enhancing student voice in multimodal writing: How could AI help? In Digital literacies for human connection. Coad, D., Buck, A., Gupta, A., Shivener, R. (Eds.). National Council of Teachers of English (NCTE).
 
 ### In Preparation
-1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (In preparation). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
+1. **Xu, W**., Avci, D., Cassie, B., Kladieva, A., Durgut, G., Staples, S. (Under review). Multimodal corpus of L2 first-year writing (FYW) students’ works: A method for coding and analysis. 
 2. McMullin, M., Weech, S., Avci, D., Banat, H., **Xu, W**. (In preparation). Are we doing what we say we’re doing? Assessing the constructive distributed work model for sustainable research teams. Invited Submission to Special Interest Group on Design of Communication of the Association for Computing Machinery (ACM, SIGDOC).
+3. **Xu, W**. (In preparation). Exploring Genre Play in Writing Classrooms: The Role of GenAI.
+4. **Xu, W**. (In preparation). Multilingual genre knowledge development through cross-genre, cross-language composition.
+5. **Xu, W**. (In preparation). Textualization Processes of Multilingual Students’ Composing Across Genres and Languages. In S. Naseh & C. Elliott (Eds.) Researching L2 Writing as it Unfolds: Micro-Processes in Second Language Writing.
+6. **Xu, W**. (In preparation). Disciplinary Branding of Public-Facing Humanities Genres. In G. Reid, C. Anson & X. Tan (Eds.) Routledge Handbook of Humanities and Social Science Communication.
+7. **Xu, W**. (In preparation). The trajectory of writing for publication as a multilingual writer. In B. Chamcharatsri (Ed.) Heart talks: Writing advice for multilingual writers edited collection.
 
 
 
